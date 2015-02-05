@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "homepage": "https://ottoborden.com",
+  "authors": [
+    "ottoborden ottoborden@gmail.com"
+  ],
+  "description": "React noodling",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "0.12.2",
+    "d3js": "3.5.3",
+    "lodash": "latest"
+  }
+}
